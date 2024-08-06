@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1684321901 source:c:\users\chaym\desktop\mpc\date.cpp
+	"Date.h"
+	<iostream>
+
+1684321901 c:\users\chaym\desktop\mpc\date.h
+
+1684334313 source:c:\users\chaym\desktop\mpc\main.cpp
+	<iostream>
+	"Message.h"
+	"Date.h"
+	"AuteurMessage.h"
+	"Profil.h"
+	"Rubrique.h"
+	"Utilisateur.h"
+	"Documentation.h"
+	"Site.h"
+	<vector>
+
+1684321976 source:c:\users\chaym\desktop\mpc\message.cpp
+	"Message.h"
+	<iostream>
+
+1684322022 c:\users\chaym\desktop\mpc\message.h
+	<string>
+	<vector>
+	"Date.h"
+
+1684322115 source:c:\users\chaym\desktop\mpc\auteurmessage.cpp
+	"AuteurMessage.h"
+
+1684322115 c:\users\chaym\desktop\mpc\auteurmessage.h
+	<string>
+	<vector>
+	"Message.h"
+
+1684323288 source:c:\users\chaym\desktop\mpc\profil.cpp
+	"Profil.h"
+
+1684322218 c:\users\chaym\desktop\mpc\profil.h
+	<string>
+	<vector>
+	"AuteurMessage.h"
+
+1684326256 source:c:\users\chaym\desktop\mpc\rubrique.cpp
+	"Rubrique.h"
+
+1684324851 c:\users\chaym\desktop\mpc\rubrique.h
+	<string>
+	<vector>
+	"Message.h"
+	<algorithm>
+
+1684329473 source:c:\users\chaym\desktop\mpc\utilisateur.cpp
+	"Utilisateur.h"
+
+1684329473 c:\users\chaym\desktop\mpc\utilisateur.h
+	<string>
+
+1684330183 source:c:\users\chaym\desktop\mpc\visiteur.cpp
+
+1684329329 c:\users\chaym\desktop\mpc\visiteur.h
+	<string>
+	"Utilisateur.h"
+
+1684330432 source:c:\users\chaym\desktop\mpc\documentation.cpp
+	"Documentation.h"
+	<vector>
+	<string>
+	<iostream>
+
+1684330432 c:\users\chaym\desktop\mpc\documentation.h
+	<string>
+
+1684330696 source:c:\users\chaym\desktop\mpc\site.cpp
+	"Site.h"
+
+1684330696 c:\users\chaym\desktop\mpc\site.h
+	<string>
+	<vector>
+	<algorithm>
+
+1684334658 source:c:\users\chaym\desktop\mpc\forum.cpp
+	"Forum.h"
+	<iostream>
+
+1684334658 c:\users\chaym\desktop\mpc\forum.h
+	<algorithm>
+	<string>
+	<vector>
+	"Rubrique.h"
+	"Message.h"
+	<iostream>
+
